@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Bo Gyeom Lhee</h1>
+<h1 align="left">Hi 👋, I'm Cole</h1>
 <h3 align="left">I'm learn the programming  </h3>
 <h3>🏠 I living in south Korea!</h3>
 
